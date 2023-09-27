@@ -1,12 +1,6 @@
 # E-Commerce with ReactJS
 
-A small web app that tries to imitate the desktop web version of amazon site, you can add items to the basket, delete them, and have your user authentification feauture thanks to Firebase.
-
-## E-Commerce Demo Link
-
-You can watch the site here 
-[Click Me](https://clone-36782.web.app/)
-(with typing credit card number as: 4242 4242 4242 4242 cvv:42424 valid date:0424)
+A small web app that tries to imitate the desktop web version of amazon site, you can add items to the basket, delete them, and have your user authentification feauture thanks to Firebase. (With typing credit card number as: 4242 4242 4242 4242 cvv:42424 valid date:0424)
 
 ## Topics 
 
