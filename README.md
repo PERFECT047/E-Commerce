@@ -5,12 +5,11 @@ A small web app that tries to imitate the desktop web version of amazon site, yo
 ## Topics 
 
 - Build checkout/ payment page with stripe functionality
-- Complete the checkout screen with the React context API
+- Complete the checkout screen
+- React context API
 - Build Login Page with full login functionality (sign up and sign in) with firebase authentication
 - Deploy cloud function to process payment (servesless)
 - Firebase for real time database
-- Deploy the App LIVE on Firebase
 - Store orders for logged in user
 - Responsive Design
-- Deploy the app live on Firebase
 
